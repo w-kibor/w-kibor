@@ -1,4 +1,4 @@
-# Hi, I'm Wilkister Kibor | Software & Data Engineer 🇰🇪
+# Hi, I'm Wilkister Kibor | Software & Data Engineer 
 
 I build high-impact digital solutions that bridge the gap between complex data and everyday utility. Currently balancing roles within a **Government Institution** while architecting AI-powered platforms for education and real estate.
 
@@ -15,6 +15,5 @@ I build high-impact digital solutions that bridge the gap between complex data a
 ###  The Journey
 * **Currently Learning:** Advanced Data Engineering & System Design.
 * **Open Source:** I maintain a public **Data Structures & Algorithms (DSA)** repository to document my logic and growth.
-* **Fact:** Bananas are Radioactive.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=w-kibor&theme=dark)](https://git.io/streak-stats)

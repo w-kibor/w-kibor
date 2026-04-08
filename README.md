@@ -3,7 +3,6 @@
 I build high-impact digital solutions that bridge the gap between complex data and everyday utility. Currently balancing roles within a **Government Institution** while architecting AI-powered platforms for education and real estate.
 
 ###  What I’m Building Right Now
-* **[Canavi](link-to-repo):** A Career Navigator helping Kenyan students calculate cluster points and map out university paths.
 * **[Book Mate](link-to-repo):** An AI-powered PWA designed to make the Kenyan CBC curriculum interactive and accessible.
 * **Hacker News ETL Pipeline:** A deep dive into Data Engineering, extracting and transforming global tech news into actionable insights via MySQL.
 

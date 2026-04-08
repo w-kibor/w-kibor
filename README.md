@@ -4,8 +4,7 @@ I build high-impact digital solutions that bridge the gap between complex data a
 
 ###  What I’m Building Right Now
 * **[Book Mate](https://github.com/w-kibor/Book-Mate):** An AI-powered PWA designed to make the Kenyan CBC curriculum interactive and accessible.
-* **Hacker News ETL Pipeline:** A deep dive into Data Engineering, extracting and transforming global tech news into actionable insights via MySQL.
-
+* **[Claudia](https://github.com/w-kibor/Claudia):**  A high-performance recipe engine that turns static Kaggle datasets into interactive "Kitchen Artifacts.
 ###  Technical Expertise
 * **Languages:** Python (FastAPI, Flask), JavaScript (React, PWA), SQL.
 * **Focus Areas:** Generative AI Agents (Langflow/Gemini), Data Engineering (ETL Pipelines), and Database Management.

@@ -14,4 +14,3 @@ I build high-impact digital solutions that bridge the gap between complex data a
 * **Currently Learning:** Advanced Data Engineering & System Design.
 * **Open Source:** I maintain a public **Data Structures & Algorithms (DSA)** repository to document my logic and growth.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=w-kibor&theme=dark)](https://git.io/streak-stats)

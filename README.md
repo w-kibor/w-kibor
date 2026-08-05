@@ -1,4 +1,4 @@
-# Hi, I'm Wilkister Kibor | Software & Data Engineer 
+# Hi, I'm Wilkister Kibor | Software Engineer 
 
 I build high-impact digital solutions that bridge the gap between complex data and everyday utility.
 
